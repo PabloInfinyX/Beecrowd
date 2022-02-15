@@ -1,3 +1,7 @@
+#Leia os quatro valores correspondentes aos eixos x e y de dois pontos quaisquer no plano, p1(x1,y1) e p2(x2,y2) e calcule a distância entre eles, 
+#mostrando 4 casas decimais após a vírgula, segundo a fórmula:
+#fórmula no link: https://www.beecrowd.com.br/judge/pt/problems/view/1015
+
 A = input()
 B = input()
 X1, Y1 = A.split()

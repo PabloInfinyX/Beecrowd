@@ -1,3 +1,7 @@
+#Neste problema, você deverá ler 3 palavras que definem o tipo de animal possível segundo o esquema abaixo, da esquerda para a direita.  
+#Em seguida conclua qual dos animais seguintes foi escolhido, através das três palavras fornecidas.
+#para visualizar a imagem acesse o: https://www.beecrowd.com.br/judge/pt/problems/view/1049
+
 Animal1 = input()
 Animal2 = input()
 Animal3 = input()

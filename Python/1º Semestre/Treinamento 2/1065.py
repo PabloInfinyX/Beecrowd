@@ -1,3 +1,5 @@
+#Faça um programa que leia 5 valores inteiros. Conte quantos destes valores digitados são pares e mostre esta informação.
+
 VALOR1 = int(input())
 VALOR2 = int(input())
 VALOR3 = int(input())
